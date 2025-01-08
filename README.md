@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Web development<br>🌱 I’m currently learning Deep Learning and NLP<br>👯 I’m looking to collaborate on Machine Learning<br>📫 How to reach me: sahapratik03@gmail.com<br>Fun fact I love programming, reading and watching movies
+🔭 I’m currently working on Software Quality Assurance, Machine Learning and Web development<br>🌱 I’m currently learning Automation testing, Deep Learning and NLP<br>👯 I’m looking to collaborate on Software Quality Assurance role.<br>📫 How to reach me: sahapratik03@gmail.com<br>Fun fact I love programming, reading and watching movies
 
 
 ## 🌐 Socials:
